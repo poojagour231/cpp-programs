@@ -1,3 +1,5 @@
+//. Implement an abstract class Payment with a pure virtual function processPayment(). 
+//Create derived classes CreditCardPayment and DebitCardPayment.
 #include<iostream>
 using namespace std;
 class Payment{

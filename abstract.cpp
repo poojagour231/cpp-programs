@@ -1,3 +1,5 @@
+// Write a program that uses pure virtual functions to create an abstract class Vehicle with 
+//derived classes Car and Bike. 
 #include<iostream>
 using namespace std;
 class Vehicle{

@@ -1,4 +1,5 @@
-
+// Write an abstract class Employee with pure virtual functions calculateSalary() and 
+//displayDetails(). Implement derived classes Manager and Engineer
 
 
 #include <iostream>

@@ -1,3 +1,5 @@
+//Create a class Point with a default constructor, parameterized constructor, and copy 
+//constructor.
 #include<iostream>
 using namespace std;
 class Point{

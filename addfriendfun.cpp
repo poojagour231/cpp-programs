@@ -1,3 +1,4 @@
+//Write a class Distance with a friend function to add two distances.
 #include<iostream>
 using namespace std;
 class Distance{

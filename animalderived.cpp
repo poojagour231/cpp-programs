@@ -1,3 +1,5 @@
+//Create a class Animal with derived classes Dog, Cat, and Bird.
+
 #include<iostream>
 using namespace std;
 class Animal{

@@ -1,3 +1,4 @@
+//Implement a class Math with static function members for basic arithmetic operations.
 #include<iostream>
 using namespace std;
 class Maths{

@@ -1,3 +1,4 @@
+ //Create a class Circle with a friend function to calculate the area.
 #include<iostream>
 using namespace std;
 class Circle{

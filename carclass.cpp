@@ -1,3 +1,5 @@
+//Design a class Car with attributes for make, model, and year. Include methods to display 
+car details.
 #include<iostream>
 #include<string>
 using namespace std;

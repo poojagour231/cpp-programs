@@ -1,3 +1,6 @@
+// Implement a class hierarchy with a base class Appliance and derived classes 
+WashingMachine, Refrigerator, and Microwave. Use virtual functions to display the 
+functionality of each appliance. 
 #include<iostream>
 #include<string>
 using namespace std;

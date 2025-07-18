@@ -1,3 +1,4 @@
+// Implement a class Shape with derived classes Circle, Rectangle, and Triangle.
 #include<iostream>
 using namespace std;
 class Shape{

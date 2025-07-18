@@ -1,3 +1,5 @@
+// Create a class Rectangle with private attributes for length and width, and public methods 
+to calculate area and perimeter.
 #include<iostream>
 using namespace std;
 class Rectangle{
